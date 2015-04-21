@@ -34,7 +34,7 @@ module.exports = function(grunt) {
                 },
                 files: {
                     'public/css/index.min.css': [
-                        'public/css/*.css',
+                        'public/css/style.css',
                     ],
                 }
             }
